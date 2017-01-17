@@ -1,0 +1,64 @@
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\Book seat.dll
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\Book seat.pdb
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\Antlr3.Runtime.dll
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\EntityFramework.dll
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\Microsoft.Web.Infrastructure.dll
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\Newtonsoft.Json.dll
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\System.Net.Http.Formatting.dll
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\System.Web.Helpers.dll
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\System.Web.Http.dll
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\System.Web.Http.WebHost.dll
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\System.Web.Mvc.dll
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\System.Web.Optimization.dll
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\System.Web.Providers.dll
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\System.Web.Razor.dll
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\System.Web.WebPages.Deployment.dll
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\System.Web.WebPages.dll
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\System.Web.WebPages.Razor.dll
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\WebGrease.dll
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\EntityFramework.xml
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\Newtonsoft.Json.xml
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\System.Net.Http.Formatting.xml
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\System.Web.Helpers.xml
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\System.Web.Http.xml
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\System.Web.Http.WebHost.xml
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\System.Web.Mvc.xml
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\System.Web.Razor.xml
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\System.Web.WebPages.xml
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\System.Web.WebPages.Deployment.xml
+C:\angularJS_examples\Developing Book My seat application2\Book seat\bin\System.Web.WebPages.Razor.xml
+C:\angularJS_examples\Developing Book My seat application2\Book seat\obj\Debug\Book seat.csprojResolveAssemblyReference.cache
+C:\angularJS_examples\Developing Book My seat application2\Book seat\obj\Debug\Book seat.dll
+C:\angularJS_examples\Developing Book My seat application2\Book seat\obj\Debug\Book seat.pdb
+C:\Developing Book My seat application2\Book seat\bin\Book seat.dll
+C:\Developing Book My seat application2\Book seat\bin\Book seat.pdb
+C:\Developing Book My seat application2\Book seat\bin\Antlr3.Runtime.dll
+C:\Developing Book My seat application2\Book seat\bin\EntityFramework.dll
+C:\Developing Book My seat application2\Book seat\bin\Microsoft.Web.Infrastructure.dll
+C:\Developing Book My seat application2\Book seat\bin\Newtonsoft.Json.dll
+C:\Developing Book My seat application2\Book seat\bin\System.Net.Http.Formatting.dll
+C:\Developing Book My seat application2\Book seat\bin\System.Web.Helpers.dll
+C:\Developing Book My seat application2\Book seat\bin\System.Web.Http.dll
+C:\Developing Book My seat application2\Book seat\bin\System.Web.Http.WebHost.dll
+C:\Developing Book My seat application2\Book seat\bin\System.Web.Mvc.dll
+C:\Developing Book My seat application2\Book seat\bin\System.Web.Optimization.dll
+C:\Developing Book My seat application2\Book seat\bin\System.Web.Providers.dll
+C:\Developing Book My seat application2\Book seat\bin\System.Web.Razor.dll
+C:\Developing Book My seat application2\Book seat\bin\System.Web.WebPages.Deployment.dll
+C:\Developing Book My seat application2\Book seat\bin\System.Web.WebPages.dll
+C:\Developing Book My seat application2\Book seat\bin\System.Web.WebPages.Razor.dll
+C:\Developing Book My seat application2\Book seat\bin\WebGrease.dll
+C:\Developing Book My seat application2\Book seat\bin\EntityFramework.xml
+C:\Developing Book My seat application2\Book seat\bin\Newtonsoft.Json.xml
+C:\Developing Book My seat application2\Book seat\bin\System.Net.Http.Formatting.xml
+C:\Developing Book My seat application2\Book seat\bin\System.Web.Helpers.xml
+C:\Developing Book My seat application2\Book seat\bin\System.Web.Http.xml
+C:\Developing Book My seat application2\Book seat\bin\System.Web.Http.WebHost.xml
+C:\Developing Book My seat application2\Book seat\bin\System.Web.Mvc.xml
+C:\Developing Book My seat application2\Book seat\bin\System.Web.Razor.xml
+C:\Developing Book My seat application2\Book seat\bin\System.Web.WebPages.xml
+C:\Developing Book My seat application2\Book seat\bin\System.Web.WebPages.Deployment.xml
+C:\Developing Book My seat application2\Book seat\bin\System.Web.WebPages.Razor.xml
+C:\Developing Book My seat application2\Book seat\obj\Debug\Book seat.csprojResolveAssemblyReference.cache
+C:\Developing Book My seat application2\Book seat\obj\Debug\Book seat.dll
+C:\Developing Book My seat application2\Book seat\obj\Debug\Book seat.pdb

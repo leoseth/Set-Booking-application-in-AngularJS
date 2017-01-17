@@ -1,0 +1,64 @@
+C:\Developing Book My seat application2\Book seat\bin\Book seat.dll
+C:\Developing Book My seat application2\Book seat\bin\Book seat.pdb
+C:\Developing Book My seat application2\Book seat\bin\Antlr3.Runtime.dll
+C:\Developing Book My seat application2\Book seat\bin\EntityFramework.dll
+C:\Developing Book My seat application2\Book seat\bin\Microsoft.Web.Infrastructure.dll
+C:\Developing Book My seat application2\Book seat\bin\Newtonsoft.Json.dll
+C:\Developing Book My seat application2\Book seat\bin\System.Net.Http.Formatting.dll
+C:\Developing Book My seat application2\Book seat\bin\System.Web.Helpers.dll
+C:\Developing Book My seat application2\Book seat\bin\System.Web.Http.dll
+C:\Developing Book My seat application2\Book seat\bin\System.Web.Http.WebHost.dll
+C:\Developing Book My seat application2\Book seat\bin\System.Web.Mvc.dll
+C:\Developing Book My seat application2\Book seat\bin\System.Web.Optimization.dll
+C:\Developing Book My seat application2\Book seat\bin\System.Web.Providers.dll
+C:\Developing Book My seat application2\Book seat\bin\System.Web.Razor.dll
+C:\Developing Book My seat application2\Book seat\bin\System.Web.WebPages.Deployment.dll
+C:\Developing Book My seat application2\Book seat\bin\System.Web.WebPages.dll
+C:\Developing Book My seat application2\Book seat\bin\System.Web.WebPages.Razor.dll
+C:\Developing Book My seat application2\Book seat\bin\WebGrease.dll
+C:\Developing Book My seat application2\Book seat\bin\EntityFramework.xml
+C:\Developing Book My seat application2\Book seat\bin\Newtonsoft.Json.xml
+C:\Developing Book My seat application2\Book seat\bin\System.Net.Http.Formatting.xml
+C:\Developing Book My seat application2\Book seat\bin\System.Web.Helpers.xml
+C:\Developing Book My seat application2\Book seat\bin\System.Web.Http.xml
+C:\Developing Book My seat application2\Book seat\bin\System.Web.Http.WebHost.xml
+C:\Developing Book My seat application2\Book seat\bin\System.Web.Mvc.xml
+C:\Developing Book My seat application2\Book seat\bin\System.Web.Razor.xml
+C:\Developing Book My seat application2\Book seat\bin\System.Web.WebPages.xml
+C:\Developing Book My seat application2\Book seat\bin\System.Web.WebPages.Deployment.xml
+C:\Developing Book My seat application2\Book seat\bin\System.Web.WebPages.Razor.xml
+C:\Developing Book My seat application2\Book seat\obj\Debug\Book seat.dll
+C:\Developing Book My seat application2\Book seat\obj\Debug\Book seat.pdb
+C:\Developing Book My seat application2\Book seat\obj\Debug\Book.csprojResolveAssemblyReference.cache
+C:\Book_seat\Book seat\bin\Book seat.dll
+C:\Book_seat\Book seat\bin\Book seat.pdb
+C:\Book_seat\Book seat\bin\Antlr3.Runtime.dll
+C:\Book_seat\Book seat\bin\EntityFramework.dll
+C:\Book_seat\Book seat\bin\Microsoft.Web.Infrastructure.dll
+C:\Book_seat\Book seat\bin\Newtonsoft.Json.dll
+C:\Book_seat\Book seat\bin\System.Net.Http.Formatting.dll
+C:\Book_seat\Book seat\bin\System.Web.Helpers.dll
+C:\Book_seat\Book seat\bin\System.Web.Http.dll
+C:\Book_seat\Book seat\bin\System.Web.Http.WebHost.dll
+C:\Book_seat\Book seat\bin\System.Web.Mvc.dll
+C:\Book_seat\Book seat\bin\System.Web.Optimization.dll
+C:\Book_seat\Book seat\bin\System.Web.Providers.dll
+C:\Book_seat\Book seat\bin\System.Web.Razor.dll
+C:\Book_seat\Book seat\bin\System.Web.WebPages.Deployment.dll
+C:\Book_seat\Book seat\bin\System.Web.WebPages.dll
+C:\Book_seat\Book seat\bin\System.Web.WebPages.Razor.dll
+C:\Book_seat\Book seat\bin\WebGrease.dll
+C:\Book_seat\Book seat\bin\EntityFramework.xml
+C:\Book_seat\Book seat\bin\Newtonsoft.Json.xml
+C:\Book_seat\Book seat\bin\System.Net.Http.Formatting.xml
+C:\Book_seat\Book seat\bin\System.Web.Helpers.xml
+C:\Book_seat\Book seat\bin\System.Web.Http.xml
+C:\Book_seat\Book seat\bin\System.Web.Http.WebHost.xml
+C:\Book_seat\Book seat\bin\System.Web.Mvc.xml
+C:\Book_seat\Book seat\bin\System.Web.Razor.xml
+C:\Book_seat\Book seat\bin\System.Web.WebPages.xml
+C:\Book_seat\Book seat\bin\System.Web.WebPages.Deployment.xml
+C:\Book_seat\Book seat\bin\System.Web.WebPages.Razor.xml
+C:\Book_seat\Book seat\obj\Debug\Book.csprojResolveAssemblyReference.cache
+C:\Book_seat\Book seat\obj\Debug\Book seat.dll
+C:\Book_seat\Book seat\obj\Debug\Book seat.pdb

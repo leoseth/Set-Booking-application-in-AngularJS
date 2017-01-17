@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>  
+<html ng-app="routingApp" >  
+<head>  
+    <meta charset="utf-8"/>  
+    <title>@ViewBag.Title - My Book seat Application</title>  
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon"/>  
+    <meta name="viewport" content="width=device-width"/>  
+    @Styles.Render("~/Content/css")  
+    @Scripts.Render("~/bundles/modernizr")
+
+    <script src="../../Scripts/angular.min.js"></script>
+    <script src="../../Scripts/angular-route.js"></script>
+    <script src="../../Application/Routing.js"></script>   
+
+    <link rel="stylesheet" href="../../Bootstrap/css/bootstrap.min.css">
+    <script data-require="ui-bootstrap" data-semver="0.10.0" src="../../Bootstrap/ui/ui-bootstrap-tpls-0.10.0.js"></script>
+  
+    <style>  
+        .color-me  
+        {  
+          color: blue;  
+        }  
+    </style>  
+</head>  
+<body>  
+    <header>  
+        <div class="content-wrapper">  
+            <div class="float-right">  
+                <section id="login">  
+                </section>  
+                <nav>  
+                </nav>  
+            </div>  
+        </div>  
+    </header>  
+    <div id="body" class="float-center">  
+        <nav class="navbar  bg-primary navbar-fixed-top">  
+            <div class="container-fluid">  
+                <div class="navbar-header">  
+                    <a class="navbar-brand" href="http://dotnetpiper.com/">BookYourSeat !! </a>  
+                </div>  
+                <ul class="nav navbar-nav navbar-dark bg-primary">  
+                    <li class="color-me"><a href="/Home"><b>Home</b></a></li>                    
+                    <li class="color-me"><a href="/SeatBooking/100PM"><b>Slot 1.00PM</b></a></li>
+                    <li><a href="/SeatBooking120/120PM"><b>Slot 1.20PM</b></a></li>  
+                    <li><a href="/SeatBooking140/140PM"><b>Slot 1.40PM</b></a></li>  
+                    <li><a href="/SeatBooking200/200PM"><b>Slot 2.00PM</b></a></li>  
+                    <li><a href="/ShowBookSeatDetail"><b>ShowBookSeatDetail</b></a></li> 
+                </ul>                       
+                <ul class="nav navbar-nav navbar-right">  
+                    <li><a href="#"><span class="glyphicon glyphicon-user"></span>Sign Up</a></li>  
+                    <li><a href="#"><span class="glyphicon glyphicon-log-in"></span>Login</a></li>  
+                </ul>  
+            </div>  
+        </nav> 
+           
+         <ng-view></ng-view>   
+        
+       @* <a href="/watch"></a>  *@              
+       
+        @RenderSection("featured", required: false)  
+  
+        @RenderBody()    
+    </div>  
+    <footer>  
+        <div class="content-wrapper">  
+            <div class="float-left">  
+                <b>  
+                   <p style="text-align: left">© @DateTime.Now.Year - BookMySeat by www.DotnetPiper.com</p>  
+                </b>  
+            </div>  
+        </div>  
+    </footer>  
+  
+    @Scripts.Render("~/bundles/jquery")      
+    @RenderSection("scripts", required: false)  
+</body>  
+</html>  
+
+ @*<a href="#/{{country.id}}">{{country.name}}</a>
+ <a>{{country.id}}</a>*@

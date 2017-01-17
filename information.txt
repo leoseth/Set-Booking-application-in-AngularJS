@@ -1,0 +1,7 @@
+
+  info :
+
+  This application was made in 1.2 version of AngulaJS. And the
+  goal of this application is to call each page or each transaction
+  for booking purposes by using the ngRoute features of AngularJS
+ 
